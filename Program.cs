@@ -59,7 +59,7 @@ app.MapPost("/Files/Upload",
         }
 
         objReturn.IsValidItens();
-        //objReturn.ValidStructureFiles = true; -- mock true
+        //objReturn.ValidStructureFiles = true; //mock true
         return Results.Ok(objReturn);
     });
 
