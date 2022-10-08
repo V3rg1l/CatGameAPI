@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{786F50A3-9641-42B1-8978-152D55DE2BBD}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Danilo.CatGame.API PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="62" Column="46" />
+      <File FileName="Model/ObjectResponse.cs" Line="28" Column="21" />
+      <File FileName="Validate/ValidateZipFile.cs" Line="40" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Danilo.CatGame.API" expanded="True">
+            <Node name="Danilo.CatGame.API" expanded="True">
+              <Node name="FileValidations" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Validate" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

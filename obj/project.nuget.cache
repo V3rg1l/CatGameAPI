@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5ImZFNKBnUdB2aJj5k+ochVgaLutv5zo7GML6inol3TvU/5Oje6/uQC+kajQGXmug5O7V2HIietQ+eNlhJ3WIw==",
+  "success": true,
+  "projectFilePath": "/Users/danilo/Projetos/CatGameGamesGlobal/Danilo.CatGame.API/Danilo.CatGame.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/danilo/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/danilo/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/danilo/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/danilo/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/danilo/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/danilo/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
